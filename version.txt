@@ -1,2 +1,2 @@
-1.0.0.6
-https://github.com/maniacosdatecnologia-cpu/MdtStart32/releases/download/1.0.0.6/MdtStart.zip
+1.0.0.7
+https://github.com/maniacosdatecnologia-cpu/MdtStart32/releases/download/1.0.0.7/MdtStart.zip
